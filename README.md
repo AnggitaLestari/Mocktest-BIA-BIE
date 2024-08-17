@@ -23,14 +23,14 @@ Dalam video tersebut, saya mendemonstrasikan:
 
 ### BIE - BI Engineer Mock Technical Test
 #### 1. [Mock Technical Test - Soal BIE (Pdf file)](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/BIE%20Mock%20Technical%20Test%20.pdf)
-#### 2. [Jawaban Soal 1.a (proses Extract CSV ke Postgesql - Mock Technical Test - Soal BIE](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/BIE%20-%20BIA%20SQL%20Test%20%231.ipynb)
-#### 3. [Jawaban Soal 1.b (SQL statement (metrics) - Mock Technical Test - Soal BIE](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/Query%20Metrics%20Superstore%20Test%201.sql)
-#### 4. [Jawaban Soal 2 (SQL statement (2nd highest salary engineering) - Mock Technical Test - Soal BIE](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/BIE%20SQL%20Test%20%232.ipynb)
-#### 5. [Jawaban Soal 3 (SQL statement (Neighborhoods) - Mock Technical Test - Soal BIE](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/BIE%20SQL%20Test%20%233.ipynb)
+#### 2. [Jawaban Soal 1.a (proses Extract CSV ke Postgesql - Mock Technical Test - Soal BIE)](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/BIE%20-%20BIA%20SQL%20Test%20%231.ipynb)
+#### 3. [Jawaban Soal 1.b (SQL statement (metrics) - Mock Technical Test - Soal BIE)](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/Query%20Metrics%20Superstore%20Test%201.sql)
+#### 4. [Jawaban Soal 2 (SQL statement (2nd highest salary engineering) - Mock Technical Test - Soal BIE)](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/BIE%20SQL%20Test%20%232.ipynb)
+#### 5. [Jawaban Soal 3 (SQL statement (Neighborhoods) - Mock Technical Test - Soal BIE)](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/BIE%20SQL%20Test%20%233.ipynb)
 
 ### BIA - BI Analyst Mock Technical Test
 #### 1. [Mock Technical Test - Soal BIA (Pdf file)](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/BIA%20Mock%20Technical%20Test.pdf)
-#### 2. [Jawaban Soal 1.a (Penjelasan Metrics Fingerprint - Mock Technical Test - Soal BIA](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/Jawaban%20BIA%20Mock%20Technical%20Test%20soal%201.pdf)
+#### 2. [Jawaban Soal 1.a (Penjelasan Metrics Fingerprint - Mock Technical Test - Soal BIA)](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/Jawaban%20BIA%20Mock%20Technical%20Test%20soal%201.pdf)
 #### 3. Jawaban Soal 1.b Mock up dashboard Fingerprint : 
 ![alt text](https://github.com/AnggitaLestari/Mocktest-BIA-BIE/blob/main/Mockup%20dasboard%20FingerPrint%20-%20BIA%20-%20Test%201.jpg?raw=true)
 
