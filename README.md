@@ -50,15 +50,5 @@ Your messages, questions, or feedback are warmly welcome!
 
 Thank you for visiting my repository. Happy coding! 🚀📊
 
-1. **Product Sales Performance**:
-```sql
-SELECT 
-  i.name AS product_name,
-  i.price,
-  COUNT(*) AS total_quantity_sold,
-  SUM(i.price) AS total_revenue
-FROM sales_records sr
-JOIN items i ON sr.item_id = i.id
-GROUP BY i.name, i.price
-ORDER BY total_quantity_sold DESC
+
 
